@@ -1,6 +1,6 @@
 # Greetings, fellow humans 🖖
 
-You have stumbled upon the GitHub profile of Paritosh Sahu, a curious and adventurous developer who likes to build and explore new things.
+You have stumbled upon the GitHub profile of Paritosh Sahu, a curious and adventurous developer who likes to build and explore new things participating in many Hackathons and participated in stage events.
 
 ## 🔭 I’m currently working on ...
 
